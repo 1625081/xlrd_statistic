@@ -15,13 +15,18 @@
 安装xlrd:
 
 1.找到python安装路径下Script文件夹
+
 2.找到xls文件路径
+
 3.打开Windows下的cmd命令行
+
 4.输入:
 ```shell
 cd python安装路径下Script文件夹
 pip install xlrd
 ```
 5.打开xlrd_statistic.py文件（此时"import xlrd"这一步就不会出错了）
+
 6.修改path变量为xls文件路径
+
 7.运行Python程序
