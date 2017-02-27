@@ -36,7 +36,9 @@ add Python3.5 to PATH
 ```shell
 pip install xlrd
 ```
-5.打开xlrd_statistic.py文件（此时"import xlrd"这一步就不会出错了）
+5.打开xlrd_statistic.py文件（本网页上面有源代码）
+
+（此时"import xlrd"这一步就不会出错了）
 
 6.修改path变量为xls文件路径
 
